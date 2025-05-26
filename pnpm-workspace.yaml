@@ -1,0 +1,9 @@
+packages:
+  - 'packages/*'
+  - 'frontend'
+  - 'user-service'
+  - 'user-service-e2e'
+  - 'product-service'
+  - 'product-service-e2e'
+  - 'api-gateway'
+  - 'api-gateway-e2e'
